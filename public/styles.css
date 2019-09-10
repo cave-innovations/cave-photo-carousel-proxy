@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#photo-carousel{
+  width: 100%;
+}
+.description{
+  position: relative;
+  margin-top: 3%;
+  display: flex;
+  font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
+  font-size: 14px !important;
+  font-weight: 450 !important;
+  line-height: 1.375em !important;
+  color: #484848 !important;
+}
+.col{
+  right: 0%;
+  width: 30%;
+  position: absolute;
+  height: 100%;
+}
+#reviews{
+  width: 60%;
+  margin-left:3%;
+  margin-right:3%;
+}
+#Reservations{
+  position: sticky;
+  top: 30%;
+}
+#Nearby{
+  position: relative;
+}

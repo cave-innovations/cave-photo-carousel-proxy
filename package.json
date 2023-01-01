@@ -20,7 +20,7 @@
   "devDependencies": {
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor",
     "nodemon": "^1.19.2",
-    "webpack": "^4.39.3",
-    "webpack-cli": "^3.3.7"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   }
 }
